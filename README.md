@@ -16,3 +16,7 @@ npm i -D @types/styled-components
 ```
 npm install framer-motion
 ```
+
+```
+npm install recoil
+```
